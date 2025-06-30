@@ -32,6 +32,10 @@ AI Interior Designer is a web-based application that transforms your room photos
 
 ---
 
+## ☁️ Run on Google Colab (No GPU? No Problem!)
+Running Stable Diffusion models locally requires a good GPU. You can run this app on Google Colab for free with GPU support and It is recommended for you to use google colab.
+💡 Tip: Enable GPU in Colab by going to Runtime > Change runtime type > GPU
+
 ## 📦 Installation (Local)
 
 ### 1. Clone the Repository
@@ -40,7 +44,3 @@ AI Interior Designer is a web-based application that transforms your room photos
 git clone https://github.com/yourusername/ai-interior-designer.git
 cd ai-interior-designer
 ```
-
-##☁️ Run on Google Colab (No GPU? No Problem!)
-Running Stable Diffusion models locally requires a good GPU. You can run this app on Google Colab for free with GPU support and It is recommended for you to use google colab.
-💡 Tip: Enable GPU in Colab by going to Runtime > Change runtime type > GPU
